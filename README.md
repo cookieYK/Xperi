@@ -1,5 +1,14 @@
 # HabX - Isometric Multiplayer Chat Room
 
+
+
+
+![Screenshot 2025-02-22 181159](https://github.com/user-attachments/assets/7b181781-3752-4e22-9dfc-e968852ffc3c)
+
+
+
+
+
 A real-time multiplayer isometric chat room built with React, Three.js, and Colyseus.
 
 ## Current Features
