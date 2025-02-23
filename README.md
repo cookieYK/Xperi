@@ -1,5 +1,10 @@
 # HabX - Isometric Multiplayer Chat Room
 
+<<<<<<< HEAD
+=======
+![image](https://github.com/user-attachments/assets/e580323b-39c8-42fb-a70f-dc3d25a69e3f)
+
+>>>>>>> b7fdb5b3798f137871adea34119f3d2caa32ebd4
 A real-time multiplayer isometric chat room built with React, Three.js, and Colyseus.
 
 ## Current Features
@@ -25,6 +30,7 @@ A real-time multiplayer isometric chat room built with React, Three.js, and Coly
 - Message timestamps
 - Chat history preservation (last 50 messages)
 
+<<<<<<< HEAD
 ### Skilling System
 - Woodcutting and Mining skills
 - Experience-based progression (levels 1-99)
@@ -35,6 +41,8 @@ A real-time multiplayer isometric chat room built with React, Three.js, and Coly
 - Skills panel with progress tracking
 - Interactive gathering with progress bars
 
+=======
+>>>>>>> b7fdb5b3798f137871adea34119f3d2caa32ebd4
 ### Visual Features
 - 3D isometric rendering
 - Smooth camera controls
@@ -122,6 +130,7 @@ npm run dev
 - Added system messages
 - Improved player movement interpolation
 
+<<<<<<< HEAD
 ### Version 0.3
 - Implemented skilling system with Woodcutting and Mining
 - Added resource nodes (trees and rocks)
@@ -134,6 +143,8 @@ npm run dev
 - Added gathering animations and progress bars
 - Implemented success chance based on skill level
 
+=======
+>>>>>>> b7fdb5b3798f137871adea34119f3d2caa32ebd4
 ## Planned Features
 - Larger world size
 - Multiple room types
