@@ -1,0 +1,32 @@
+{
+  "name": "habx",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:client": "npm run dev -w @habx/client",
+    "dev:server": "npm run dev -w @habx/server",
+    "dev": "concurrently \"npm run dev:client\" \"npm run dev:server\"",
+    "build": "npm run build -w @habx/client && npm run build -w @habx/server",
+    "start": "npm run start -w @habx/server",
+    "clean": "rimraf packages/*/node_modules && rimraf node_modules",
+    "install:all": "npm install && npm install -w @habx/client && npm install -w @habx/server"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "concurrently": "^8.2.2",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "rimraf": "^5.0.5",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.0"
+  }
+}
