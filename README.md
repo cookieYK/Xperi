@@ -143,6 +143,12 @@ npm run dev
 - Added gathering animations and progress bars
 - Implemented success chance based on skill level
 
+![Screenshot 2025-02-22 234628](https://github.com/user-attachments/assets/f038fd0c-37b6-4a97-81eb-2cda49116d07)
+
+![Screenshot 2025-02-22 234634](https://github.com/user-attachments/assets/1dda3899-1cd4-4b45-9662-cebf97480181)
+
+![Screenshot 2025-02-22 234643](https://github.com/user-attachments/assets/0d882025-ae1c-4c84-b630-b41cedf3fcb1)
+
 =======
 >>>>>>> b7fdb5b3798f137871adea34119f3d2caa32ebd4
 ## Planned Features
